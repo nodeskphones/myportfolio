@@ -408,13 +408,13 @@ function SendSMS() {
 - Stan Smith </p>
           </header>
 
-          <!-- <div id="grid-controls-wrapper"> -->
+          <div id="grid-controls-wrapper">
           <ul class="nav nav-pills center-pills grid-controls">
             <li class="active"><a href="#home" data-toggle="tab">Jabze</a></li>
             <li><a href="#CoSo" data-toggle="tab">ConnectSolutions</a></li>
             <li><a href="#cisco" data-toggle="tab">Cisco WebEx</a></li>
           </ul>
-        <!-- </div> -->
+         </div>
 	  
         <div class="tab-content">
           <div class="tab-pane active" id="home">
